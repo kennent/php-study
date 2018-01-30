@@ -2,6 +2,7 @@ php-study
 ========================
 
 PHP code that contains the example of a [blog lesson](https://blog.naver.com/kckyoung2)
+[한국어판 문서 보기](https://github.com/kennent/PHP-Study/tree/lang_kr)
 ## PHP Grammar
 1. [Variable and Operator](https://blog.naver.com/kckyoung2/221175832999)
     - Variable
@@ -49,7 +50,7 @@ PHP code that contains the example of a [blog lesson](https://blog.naver.com/kck
         - Value Extraction
 
     2. [Array 2](https://blog.naver.com/kckyoung2/221180901098)
-        - Array Substitution
+        - Array Comparison
         - Array Search
         - Array Sort
         - Use of Value
@@ -82,15 +83,15 @@ PHP code that contains the example of a [blog lesson](https://blog.naver.com/kck
 
 8. Form Type
     1. [Form Type 1](https://blog.naver.com/kckyoung2/221188278282)
-        - Radio
-        - Checkbox
+        - Radio - (Type)
+        - Checkbox - (Type)
         - Fulldown - (Select/Option)
         - Listbox - (Select/Option)
 
     2. [Form Type 2](https://blog.naver.com/kckyoung2/221189073260)
-        - Range(Slider)
+        - Range(Slider) - (Type)
         - Textarea - (Tag)
-        - Date
+        - Date - (Type)
 
 9. [Session](https://blog.naver.com/kckyoung2/221189195700)
     - Session
