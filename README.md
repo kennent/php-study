@@ -1,7 +1,7 @@
 php-study
 ========================
 
-PHP code that contains the example of a blog lesson
+PHP code that contains the example of a [blog lesson](https://blog.naver.com/kckyoung2)
 ## PHP Grammar
 1. [Variable and Operator](https://blog.naver.com/kckyoung2/221175832999)
     - Variable
